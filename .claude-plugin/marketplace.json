@@ -1,0 +1,16 @@
+{
+  "name": "webhooks-ltd",
+  "owner": {
+    "name": "Webhooks Ltd"
+  },
+  "plugins": [
+    {
+      "name": "sharp-recon",
+      "source": {
+        "source": "github",
+        "repo": "Webhooks-Ltd/SharpRecon"
+      },
+      "description": ".NET MCP server for NuGet package inspection, type introspection, and decompilation"
+    }
+  ]
+}
