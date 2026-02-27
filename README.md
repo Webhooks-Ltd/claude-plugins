@@ -20,10 +20,6 @@ Plugin marketplace for [Claude Code](https://docs.anthropic.com/en/docs/claude-c
 /plugin install sharp-recon
 ```
 
-Requires .NET 10.0 SDK. After installing, build once:
-
-```bash
-dotnet publish src/SharpRecon/SharpRecon.csproj -o src/SharpRecon/bin/publish
-```
+Pre-built binaries are downloaded automatically on first use. Requires [PowerShell](https://github.com/PowerShell/PowerShell) (`pwsh`).
 
 See the [SharpRecon README](https://github.com/Webhooks-Ltd/SharpRecon) for full documentation.
