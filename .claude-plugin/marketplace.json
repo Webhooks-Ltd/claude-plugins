@@ -7,8 +7,8 @@
     {
       "name": "sharp-recon",
       "source": {
-        "source": "github",
-        "repo": "Webhooks-Ltd/SharpRecon"
+        "source": "git",
+        "url": "https://github.com/Webhooks-Ltd/SharpRecon.git"
       },
       "description": ".NET MCP server for NuGet package inspection, type introspection, and decompilation"
     }
